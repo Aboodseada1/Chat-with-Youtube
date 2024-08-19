@@ -1,4 +1,4 @@
-# YouTube Video Transcriber and Chat App
+# Chat with Youtube
 
 This Streamlit application allows you to transcribe audio from a YouTube video and chat with an AI about the content of the video.
 
