@@ -1,0 +1,6 @@
+yt-dlp
+pytube
+pydub
+groq
+streamlit
+youtube_dl
